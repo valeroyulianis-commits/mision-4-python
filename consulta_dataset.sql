@@ -1,0 +1,3 @@
+-- Reto 3: escribe aquí tu consulta de la Misión 3.
+-- Hay una consulta de referencia en sql/consulta_dataset.sql.
+-- Revisa el LEFT JOIN, la agrupación y los nombres de las seis columnas.
