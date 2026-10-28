@@ -3,7 +3,7 @@
 
 def validar_cliente(cliente):
     """Revisa un cliente y devuelve una lista con TODOS sus errores."""
-    incidencias = []  # lista vacía donde iremos anotando errores
+    incidencias = []  # Acumula todas las incidencias detectadas
 
     # Regla 1: el id debe existir y no ser None
     if cliente.get("id_cliente") is None:
